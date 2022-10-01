@@ -8,7 +8,7 @@
 
 # DATA STRUCTURES & ALGORITHMS
 
-`Resources and Solutions` `^_^`
+`Resources and Solutions`, `^_^`
 
 <!-- I am _Sachin Verma_ a student of Netaji Subhas Institute of Technology, Delhi,
 an aspiring **Web Developer** and **Competitive Programmer**. -->
