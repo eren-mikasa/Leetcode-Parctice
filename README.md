@@ -11,7 +11,7 @@
 
 
 
-# DATA STRUCTURES & ALGORITH
+# DATA STRUCTURES & ALGORI
 
 `Resources and Solutions`, `^_^`
 
